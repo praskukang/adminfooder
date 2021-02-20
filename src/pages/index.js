@@ -1,5 +1,6 @@
 import InputMenu from './InputMenu'
-import Test from './Test';
+import InputDrink from './InputDrink'
 
 
-export { InputMenu, Test };
+
+export { InputMenu, InputDrink };

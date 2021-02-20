@@ -2,7 +2,7 @@ import React from 'react';
 // import { createStackNavigator } from '@react-navigation/stack';
 // import { createDrawerNavigator } from '@react-navigation/drawer';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { InputMenu, Test } from '../pages';
+import { InputMenu, InputDrink } from '../pages';
 
 // const Stack = createStackNavigator();
 // const Drawer = createDrawerNavigator();
@@ -12,8 +12,8 @@ const Router = () => {
     return (      
 
         <Tab.Navigator>
-            <Tab.Screen name="Test" component={Test} />
-            <Tab.Screen name="Test" component={InputMenu} />
+            <Tab.Screen name="Input Food" component={InputMenu} />
+            <Tab.Screen name="Input Drink" component={InputDrink} />
         </Tab.Navigator>
 
         // <Drawer.Navigator initialRouteName="Input Makanan">

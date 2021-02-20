@@ -44,7 +44,7 @@ const InputMenu = () => {
             <View >
                 <View >
                     <Input
-                            
+                        placeholder="Makanan"
                         // value={form.name}
                         // onChangeText={value => onInputChange(value, 'name')}
                         value={food} onChangeText={setFood} />
