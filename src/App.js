@@ -1,13 +1,16 @@
-import React, {Component} from 'react';
-import {Text, StyleSheet, View} from 'react-native';
-import ImagePick from './component/ImagePick';
+import React, { Component } from 'react';
+import { StyleSheet } from 'react-native';
+// import Router from './router';
+import InputMenu from '../src/pages/InputMenu'
+import { NavigationContainer } from '@react-navigation/native';
+import CRUD from './CRUD';
 
 export default class App extends Component {
   render() {
     return (
-      <View>
-        <ImagePick />
-      </View>
+      <NavigationContainer>
+        <CRUD />
+      </NavigationContainer>
     );
   }
 }
