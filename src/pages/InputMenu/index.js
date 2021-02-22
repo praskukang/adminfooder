@@ -7,14 +7,6 @@ const InputMenu = () => {
 
     const ref = firestore().collection('Foods');
 
-    // const [form, setForm] = useState(
-    //     {
-    //         name: '',
-    //         price: '',
-    //         // deskripsi: ''
-    //     }
-    // );
-
     const [ food, setFood ] = useState('');
     const [ price, setPrice ] = useState('');
 
@@ -29,6 +21,15 @@ const InputMenu = () => {
         setFood('');
       }
 
+
+    // const [form, setForm] = useState(
+    //     {
+    //         name: '',
+    //         price: '',
+    //         // deskripsi: ''
+    //     }
+    // );
+
     // const sendData = () => {
     //     console.log(form);
     // }
@@ -41,7 +42,8 @@ const InputMenu = () => {
     // };
     return (
         <View style={style.container}>
-            <View >
+            <Text style={style.text}>Input Food</Text>
+            <View style={style.margin}>
                 <View >
                     <Input
                         placeholder="Makanan"
@@ -75,7 +77,11 @@ const style = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: 'white',
-        alignItems: 'center'
+        alignItems: 'center',
+        
+    },
+    margin: {
+        marginTop : 10,
     },
     inputbutton: {
         marginBottom: 200
@@ -84,7 +90,8 @@ const style = StyleSheet.create({
         fontSize: 20,
         color: 'black',
         fontWeight: 'normal',
-        marginTop: 110,
+        alignItems: 'center',
+        marginTop : 90
     },
     icon: {
         width: 200,

@@ -41,7 +41,8 @@ const InputDrink = () => {
     // };
     return (
         <View style={style.container}>
-            <View >
+            <Text style={style.text}>Input Drink</Text>
+            <View style={style.margin}>
                 <View >
                     <Input
                         placeholder="Minuman"
@@ -77,6 +78,9 @@ const style = StyleSheet.create({
         backgroundColor: 'white',
         alignItems: 'center'
     },
+    margin: {
+        marginTop : 10,
+    },
     inputbutton: {
         marginBottom: 200
     },
@@ -84,7 +88,8 @@ const style = StyleSheet.create({
         fontSize: 20,
         color: 'black',
         fontWeight: 'normal',
-        marginTop: 110,
+        alignItems: 'center',
+        marginTop : 90
     },
     icon: {
         width: 200,

@@ -18,6 +18,7 @@ MERGED from [:react-native-image-picker] D:\adminfooder\node_modules\react-nativ
 MERGED from [:react-native-reanimated] D:\adminfooder\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] D:\adminfooder\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] D:\adminfooder\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] D:\adminfooder\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.63.2] C:\Users\PRASKUKANG\.gradle\caches\transforms-2\files-2.1\b366fa7cf4b3ba6e9d1565131a1b2c8e\jetified-react-native-0.63.2\AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PRASKUKANG\.gradle\caches\transforms-2\files-2.1\bdd12e717dce0623989f1d33dbf56cb5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] C:\Users\PRASKUKANG\.gradle\caches\transforms-2\files-2.1\fcff261677dfffc6075c02575bfcf2ba\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
@@ -278,6 +279,8 @@ MERGED from [:react-native-safe-area-context] D:\adminfooder\node_modules\react-
 MERGED from [:react-native-safe-area-context] D:\adminfooder\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] D:\adminfooder\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-screens] D:\adminfooder\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\adminfooder\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\adminfooder\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.2] C:\Users\PRASKUKANG\.gradle\caches\transforms-2\files-2.1\b366fa7cf4b3ba6e9d1565131a1b2c8e\jetified-react-native-0.63.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.2] C:\Users\PRASKUKANG\.gradle\caches\transforms-2\files-2.1\b366fa7cf4b3ba6e9d1565131a1b2c8e\jetified-react-native-0.63.2\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\PRASKUKANG\.gradle\caches\transforms-2\files-2.1\bdd12e717dce0623989f1d33dbf56cb5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44

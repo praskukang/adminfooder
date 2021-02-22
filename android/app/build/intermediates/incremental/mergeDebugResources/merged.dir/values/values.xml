@@ -733,17 +733,17 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="default_web_client_id" translatable="false">80484944311-j13phkl8c0h27qak32hrrdsv2fdfbc0h.apps.googleusercontent.com</string>
+    <string name="default_web_client_id" translatable="false">993016481550-eic961ckc00t1qq3blalu3i1no5kal37.apps.googleusercontent.com</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="firebase_database_url" translatable="false">https://scriptshit.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">80484944311</string>
-    <string name="google_api_key" translatable="false">AIzaSyDryZNel6o9-lzXIcDZirnuYhbQ6Jn8SEI</string>
-    <string name="google_app_id" translatable="false">1:80484944311:android:606b4e2807c02f16750032</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDryZNel6o9-lzXIcDZirnuYhbQ6Jn8SEI</string>
-    <string name="google_storage_bucket" translatable="false">scriptshit.appspot.com</string>
+    <string name="firebase_database_url" translatable="false">https://skripsi-5bb1d.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">993016481550</string>
+    <string name="google_api_key" translatable="false">AIzaSyBX-8ElPW2tMpchsSJMv1Ils7RttU3YZio</string>
+    <string name="google_app_id" translatable="false">1:993016481550:android:b10dc51cff1a7f2ced395f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBX-8ElPW2tMpchsSJMv1Ils7RttU3YZio</string>
+    <string name="google_storage_bucket" translatable="false">skripsi-5bb1d.appspot.com</string>
     <string name="header_description" translatable="false">Heading</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string description="Content description for an icon that appears in the title area of a dialog" name="icon_content_description">Dialog Icon</string>
@@ -793,7 +793,7 @@
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="progressbar_description" translatable="false">Progress Bar</string>
-    <string name="project_id" translatable="false">scriptshit</string>
+    <string name="project_id" translatable="false">skripsi-5bb1d</string>
     <string name="radiogroup_description" translatable="false">Radio Group</string>
     <string name="rn_tab_description" translatable="false">Tab</string>
     <string name="scrollbar_description" translatable="false">Scroll Bar</string>
