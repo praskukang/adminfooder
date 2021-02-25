@@ -2,7 +2,7 @@ import React from 'react';
 // import { createStackNavigator } from '@react-navigation/stack';
 // import { createDrawerNavigator } from '@react-navigation/drawer';
 // import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { InputMenu, InputDrink } from '../pages';
+import { InputMenu, InputDrink, Order } from '../pages';
 // import { NavigationContainer } from '@react-navigation/native';
 import { createMaterialBottomTabNavigator } from '@react-navigation/material-bottom-tabs';
 
@@ -18,6 +18,7 @@ const Router = () => {
             <Tab.Navigator>
                 <Tab.Screen name="Input Food" component={InputMenu} />
                 <Tab.Screen name="Input Drink" component={InputDrink} />
+                <Tab.Screen name="Order" component={Order} />
             </Tab.Navigator>
         // </NavigationContainer>
 
